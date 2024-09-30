@@ -1,0 +1,13 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1727729129342,
+      "tag": "0000_steady_captain_britain",
+      "breakpoints": true
+    }
+  ]
+}
